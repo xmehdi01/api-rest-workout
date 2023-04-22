@@ -1,0 +1,19 @@
+{
+  "workouts": [
+    {
+      "id": "370127b9-6c3e-49e4-9b26-0e9cde85d3e7",
+      "name": "Medi",
+      "exercises": [
+        "14 push ups"
+      ],
+      "createdAt": "17/09/2022, 17:07:59 PM",
+      "updatedAt": "17/09/2022, 17:07:59 PM"
+    },
+    {
+      "name": "Simo",
+      "id": "e23bd19b-2cf5-4437-a721-2d5a50ee537e",
+      "createdAt": "4/22/2023, 5:13:06 AM",
+      "updatedAt": "4/22/2023, 5:13:06 AM"
+    }
+  ]
+}
